@@ -3,7 +3,7 @@ layout: default
 title: Data Science Portfolio
 ---
 
-# Zhoujinasdff
+# zhoujiin116-cmd
 
 I am a data science student based in Macau. I use Python to turn public data into clear, honest visual stories, with a particular interest in exploratory analysis, data visualization, and reproducible workflows.
 
@@ -39,6 +39,6 @@ The figure below shows the monthly path and the indexed comparison. The monthly 
 
 **What I would improve next:** replace the simulated monthly detail with official monthly arrivals and visitor-spending tables, then estimate spending per visitor by source market. This would test the composition explanation directly instead of leaving it as an interpretation.
 
-**Links:** [Project repository](https://github.com/zhoujinasdff/data-science-project) | [README and methods](https://github.com/zhoujinasdff/data-science-project#readme)
+**Links:** [Project repository](https://github.com/zhoujiin116-cmd/data-science-project) | [README and methods](https://github.com/zhoujiin116-cmd/data-science-project#readme)
 
 **Data note:** Annual visitor arrivals from DSEC and gross gaming revenue from DICJ. No personal or restricted data is used. The project repository documents the sources, permissions, and reproduction steps.

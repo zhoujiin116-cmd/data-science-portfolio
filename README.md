@@ -2,9 +2,9 @@
 
 Source files for my GitHub Pages portfolio.
 
-**Live site:** <https://zhoujinasdff.github.io/data-science-portfolio/>
+**Live site:** <https://zhoujiin116-cmd.github.io/data-science-portfolio/>
 
-**Featured project:** [Macau's Post-Pandemic Tourism Recovery](https://github.com/zhoujinasdff/data-science-project)
+**Featured project:** [Macau's Post-Pandemic Tourism Recovery](https://github.com/zhoujiin116-cmd/data-science-project)
 
 ## Contents
 
