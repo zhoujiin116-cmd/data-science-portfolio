@@ -19,6 +19,14 @@ I am a data science student based in Macau. I use Python to turn public data int
 
 **Status:** Completed (October 2026)
 
+| Project at a glance | |
+|---|---|
+| **Question** | Did Macau's visitor arrivals and gross gaming revenue recover to 2019 levels by 2024? |
+| **Data** | DSEC annual visitor arrivals; DICJ gross gaming revenue |
+| **Method** | Compare 2024 with 2019 using a 2019 = 100 index |
+| **Main finding** | Arrivals recovered to 88.6%; gaming revenue to 77.5% |
+| **Limitation** | Annual data cannot separate spending changes from visitor-mix changes; the monthly detail in the second figure is simulated |
+
 ![2024 tourism recovery relative to 2019](assets/fig2_recovery_2024.png)
 
 The chart compares 2024 with 2019 for total arrivals, each source market, and gross gaming revenue. Visitor volume recovered to **88.6%** of the 2019 level, but gaming revenue recovered to only **77.5%**. The gap is the main finding: the visitors came back faster than the value they generated.
